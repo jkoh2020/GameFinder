@@ -1,0 +1,16 @@
+C:\GameFinder1\GameFinder\GameFinder.Services\bin\Debug\GameFinder.Services.dll.config
+C:\GameFinder1\GameFinder\GameFinder.Services\bin\Debug\GameFinder.Services.dll
+C:\GameFinder1\GameFinder\GameFinder.Services\bin\Debug\GameFinder.Services.pdb
+C:\GameFinder1\GameFinder\GameFinder.Services\bin\Debug\EntityFramework.dll
+C:\GameFinder1\GameFinder\GameFinder.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\GameFinder1\GameFinder\GameFinder.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\GameFinder1\GameFinder\GameFinder.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\GameFinder1\GameFinder\GameFinder.Services\bin\Debug\EntityFramework.xml
+C:\GameFinder1\GameFinder\GameFinder.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\GameFinder1\GameFinder\GameFinder.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\GameFinder1\GameFinder\GameFinder.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\GameFinder1\GameFinder\GameFinder.Services\obj\Debug\GameFinder.Services.csprojAssemblyReference.cache
+C:\GameFinder1\GameFinder\GameFinder.Services\obj\Debug\GameFinder.Services.csproj.CoreCompileInputs.cache
+C:\GameFinder1\GameFinder\GameFinder.Services\obj\Debug\GameFinder.Services.csproj.CopyComplete
+C:\GameFinder1\GameFinder\GameFinder.Services\obj\Debug\GameFinder.Services.dll
+C:\GameFinder1\GameFinder\GameFinder.Services\obj\Debug\GameFinder.Services.pdb
