@@ -88,11 +88,28 @@
     <Compile Include="Game.cs" />
     <Compile Include="GameSystem.cs" />
     <Compile Include="IdentityModels.cs" />
+    <Compile Include="Migrations\202011161950213_InitialCreate.cs" />
+    <Compile Include="Migrations\202011161950213_InitialCreate.Designer.cs">
+      <DependentUpon>202011161950213_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202011171452336_newMigration.cs" />
+    <Compile Include="Migrations\202011171452336_newMigration.Designer.cs">
+      <DependentUpon>202011171452336_newMigration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202011161950213_InitialCreate.resx">
+      <DependentUpon>202011161950213_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202011171452336_newMigration.resx">
+      <DependentUpon>202011171452336_newMigration.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
